@@ -5,12 +5,12 @@
 <br><br>
 
 <span class='sub-title'>Choose timer date end.</span>
-<input type="date" name="date-end">
+<input type="date" name="date-end" value="<?=explode(' ',$countdown_data['end'])[0];?>">
 
 <br><br>
 
 <span class='sub-title'>Choose timer time end.</span>
-<input type="time" name="time-end">
+<input type="time" name="time-end" value="<?=explode(' ',$countdown_data['end'])[1];?>">
 
 <br><br>
 
