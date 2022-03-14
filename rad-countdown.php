@@ -10,7 +10,7 @@
 
 $rad_countdown_table = $wpdb->prefix."rad_countdown_list";
 
-/* Plugin work with database */
+/* Plugin work with database  */
 /*
 require_once( ABSPATH . 'wp-admin/includes/upgrade.php' );
 $rad_countdown_table_query = "CREATE TABLE {$rad_countdown_table}(
