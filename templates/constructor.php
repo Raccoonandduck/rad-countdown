@@ -6,7 +6,7 @@
 
 <span class='sub-title'>Choose timer date end.</span>
 <input type="date" name="date-end" value="<?=explode(' ',$countdown_data['end'])[0];?>">
-
+f
 <br><br>
 
 <span class='sub-title'>Choose timer time end.</span>
